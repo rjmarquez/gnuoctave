@@ -1,6 +1,6 @@
 # Ejemplos de Control de Sistemas No Lineales 2005
 
-Estos archivos de código en GNU Octave/MATLAB sirven de apoyo y son parte integral de la versión impresa del libro 
+Estos archivos de código en [GNU Octave](https://www.gnu.org/software/octave/)/MATLAB sirven de apoyo y son parte integral de la versión impresa del libro 
 [Control de Sistemas No Lineales: Linealización aproxiamda, extendida, exacta](https://controldesistemasnolineales.com) 
 en su edición 2005, publicado por Pearson Educación gracias a la valiosa colaboración del [Comité Español de Automática](https://www.ceautomatica.es/).
 
@@ -17,4 +17,6 @@ Estos ejemplos cubren los siguientes temas:
 Las referencias a estos temas se encuentran en el texto indicado. Estos archivos complementan el material presentado [allí](https://controldesistemasnolineales.com).
 
 Para mayor información visite la página [https://controldesistemasnolineales.com](https://controldesistemasnolineales.com).
+
+rm
 
