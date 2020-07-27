@@ -36,7 +36,7 @@ calidad de su contenido. El libro se ocupa, como su subtítulo
 matiza, de métodos de linealización y cabría confiar en que sea
 seguido por trabajos adicionales en los que se traten otros
 aspectos más elaborados de la moderna teoría del control no
-lineal. _
+lineal.
 > Javier Aracil Santonja, Catedrático de Ingeniería de Sistemas y Automática de la Universidad
 de Sevilla, España.
 
