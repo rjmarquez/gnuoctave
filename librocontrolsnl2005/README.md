@@ -1,6 +1,6 @@
 # Ejemplos de Control de Sistemas No Lineales 2005
 
-[CONTROL DE SISTEMAS NO LINEALES 1/E](https://controldesistemasnolineales.com) por [Hebertt Sira-Ramírez](https://scholar.google.com/citations?user=Oq6shRMAAAAJ&hl), **Richard Márquez**, Frncklin Rivas-Echeverría y Orestes Llanes-Santiago.
+[CONTROL DE SISTEMAS NO LINEALES 1/E](https://controldesistemasnolineales.com) por [Hebertt Sira-Ramírez](https://scholar.google.com/citations?user=Oq6shRMAAAAJ&hl), **Richard Márquez**, [Francklin Rivas-Echeverría](https://www.linkedin.com/in/francklin-rivas-echeverria-514180144/) y Orestes Llanes-Santiago.
 
 * ISBN 84-205-4449-3, 9788420544496. 
 * Encuadernación: Tapa blanda
@@ -16,7 +16,7 @@ Estos ejemplos cubren los siguientes temas:
 
 1. Modelado de sistemas no lineales mediante ecuaciones diferenciales
 2. Simulación numérica de ecuaciones diferenciales dependientes del tiempo (usando algoritmos del tipo Runge Kutta y LSODE).
-3. Compara el comportamiento de un modelo no lineal versus el comportamiento de su **aproximación lineal** (modelo linealizado).
+3. **capitulo02** Compara el comportamiento de un modelo no lineal versus el comportamiento de su **aproximación lineal** (modelo linealizado).
 4. Control por realimentación del vector de estados.
 5. Uso de observadores de tipo de Luenberger para estimación de estados.
 6. Muestra el uso de la **linealización extendida**.
