@@ -8,6 +8,7 @@ function xdot=artefactorvelin(t,x)
 %% cual se requiere una reorientacion angular mediante control de las variables
 %% de estado: posicion, velocidad y orientacion de la tobera. El controlador disen~ado esta basado en
 %% linealizacion aproximada alrededor del punto de equilibrio deseado.
+%%
 #    Copyright 2005-2020 Richard Marquez
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -22,6 +23,7 @@ function xdot=artefactorvelin(t,x)
 #
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
 %% parametros del sistema
 F = 200; L=3; R=20; J =50;
 
