@@ -1,3 +1,34 @@
+% Ejemplo toberaoctave.m
+%
+% Programa de simulacion de la respuesta controlada
+% de un satelite monoaxial (modelo no lineal obtenido
+% usando la representacion Cayley-Rodrigues).
+%
+% Programado usando GNU Octave
+%
+% Se incluyen en el mismo código la función de modelo-control (ecuaciones diferenciales) 
+% Se usa control por realimentación del vector de estados, 
+% a) sin (sel = 0) y b) con observador de estado completo (sel = 1).
+% Se usa la variable "sel" para seleccionar el tipo de control.
+%
+%% Ejemplo con simulaciones numericas del libro:
+%% Control de Sistemas No Lineales: Linealización aproximada, extendida, exacta, 2005
+#
+#    Copyright 2005-2020 Richard Marquez
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as
+#    published by the Free Software Foundation, either version 3 of the
+#    License, or (at your option) any later version.#
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 global F L J R c a b sel lambda1 lambda2 lambda3 thet L1 L2 L3
 
 % Parametros del sistema
@@ -64,7 +95,7 @@ plot(t,x(:,1),'3',t,x(:,4)+thet,'2')
 title('Posicion Angular')
 xlabel('t[seg]')
 ylabel('theta')
-safeimage
+#safeimage
 
 % Velocidad Angular (x(2))
 
@@ -72,7 +103,7 @@ plot(t,x(:,2),'3',t,x(:,5),'2')
 title('Velocidad Angular')
 xlabel('t[seg]')
 ylabel('Omega')
-safeimage
+#safeimage
 
 % Angulo de Orientacion de la Tobera (x(3)) 
 
@@ -80,7 +111,7 @@ plot(t,x(:,3),'3',t,x(:,6),'2')
 title('Orientación de la Tobera')
 xlabel('t[seg]')
 ylabel('Beta')
-safeimage
+#safeimage
 
 % Controlador u
 
@@ -90,11 +121,11 @@ plot(t,v,'3')
 title('Variable de Control')
 xlabel('t[seg]')
 ylabel('u')
-safeimage
+#safeimage
 
 plot3(x(:,1),x(:,2),x(:,3))
 hold
 plot3(x(:,4)+thet,x(:,5),x(:,6),'r')
 
-safeimage
+#safeimage
 
