@@ -1,5 +1,13 @@
 # Ejemplos de Control de Sistemas No Lineales 2005
 
+[CONTROL DE SISTEMAS NO LINEALES 1/E](https://controldesistemasnolineales.com) por [Hebertt Sira-Ramírez](https://scholar.google.com/citations?user=Oq6shRMAAAAJ&hl), **Richard Márquez**, Frncklin Rivas-Echeverría y Orestes Llanes-Santiago.
+
+* ISBN 84-205-4449-3, 9788420544496. 
+* Encuadernación: Tapa blanda
+* Número de páginas: 360
+* Editoral: PEARSON EDUCACION
+* Lengua: CASTELLANO
+
 Estos archivos de código en [GNU Octave](https://www.gnu.org/software/octave/)/MATLAB sirven de apoyo y son parte integral de la versión impresa del libro 
 [Control de Sistemas No Lineales: Linealización aproxiamda, extendida, exacta](https://controldesistemasnolineales.com) 
 en su edición 2005, publicado por Pearson Educación gracias a la valiosa colaboración del [Comité Español de Automática](https://www.ceautomatica.es/).
