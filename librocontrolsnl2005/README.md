@@ -26,7 +26,7 @@ Las referencias a estos temas se encuentran en el texto indicado. Estos archivos
 
 Para mayor información visite la página [https://controldesistemasnolineales.com](https://controldesistemasnolineales.com).
 
-> El libro que tiene lector en sus manos constituye una introducción
+> *El libro que tiene lector en sus manos constituye una introducción
 al control no lineal tratando de explotar las posibilidades de la
 linealización en torno al punto de operación (tan relevante en
 ciertos problemas de control, como se recordaba más arriba). La
@@ -36,7 +36,7 @@ calidad de su contenido. El libro se ocupa, como su subtítulo
 matiza, de métodos de linealización y cabría confiar en que sea
 seguido por trabajos adicionales en los que se traten otros
 aspectos más elaborados de la moderna teoría del control no
-lineal.
-> Javier Aracil Santonja, Catedrático de Ingeniería de Sistemas y Automática de la Universidad
-de Sevilla, España.
+lineal.*
+> **Javier Aracil Santonja**, *Catedrático de Ingeniería de Sistemas y Automática de la Universidad
+de Sevilla, España.*
 
