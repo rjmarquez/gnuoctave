@@ -9,7 +9,7 @@
 * Lengua: CASTELLANO
 
 Estos archivos de código en [GNU Octave](https://www.gnu.org/software/octave/)/MATLAB sirven de apoyo y son parte integral de la versión impresa del libro 
-[Control de Sistemas No Lineales: Linealización aproxiamda, extendida, exacta](https://controldesistemasnolineales.com) 
+[Control de Sistemas No Lineales: Linealización aproximada, extendida, exacta](https://controldesistemasnolineales.com) 
 en su edición 2005, publicado por Pearson Educación gracias a la valiosa colaboración del [Comité Español de Automática](https://www.ceautomatica.es/).
 
 Estos ejemplos cubren los siguientes temas:
@@ -26,5 +26,17 @@ Las referencias a estos temas se encuentran en el texto indicado. Estos archivos
 
 Para mayor información visite la página [https://controldesistemasnolineales.com](https://controldesistemasnolineales.com).
 
-rm
+> El libro que tiene lector en sus manos constituye una introducción
+al control no lineal tratando de explotar las posibilidades de la
+linealización en torno al punto de operación (tan relevante en
+ciertos problemas de control, como se recordaba más arriba). La
+nómina de sus autores está precedida por el prestigioso
+investigador Hebertt Sira-Ramírez lo que permite augurar la
+calidad de su contenido. El libro se ocupa, como su subtítulo
+matiza, de métodos de linealización y cabría confiar en que sea
+seguido por trabajos adicionales en los que se traten otros
+aspectos más elaborados de la moderna teoría del control no
+lineal. _
+> Javier Aracil Santonja, Catedrático de Ingeniería de Sistemas y Automática de la Universidad
+de Sevilla, España.
 
