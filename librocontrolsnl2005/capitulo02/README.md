@@ -15,18 +15,7 @@ inclusive podemos definir los parámetros del sistema controlado
 y hasta graficar los resultados de la simulación.
 
 El programa `spend.m` permite simular el modelo no lineal,
-`mpend.m` contiene el modelo no lineal del sistema 
-
-$$
-\begin{aligned}
-(mL\cos\phi)\ddot\xi + (J+mL^2)\ddot \phi &= -C\dot\phi+
-mLg\sin\phi \\
-(M+m)\ddot\xi+(mL\cos\phi)\ddot\phi &= -F\dot\xi+
-(mL\sin\phi)\dot\phi^2+u
-\end{aligned}
-$$
-
-y
+`mpend.m` contiene el modelo no lineal del sistema y
 `lpend.m` genera la comparación entre el modelo lineal
 y el modelo no lineal. Nota: el símbolo `%` al comienzo de
 una línea indica los comentarios que se hacen en pro de claridad.
