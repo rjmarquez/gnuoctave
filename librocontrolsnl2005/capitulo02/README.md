@@ -20,6 +20,12 @@ El programa `spend.m` permite simular el modelo no lineal,
 y el modelo no lineal. Nota: el símbolo `%` al comienzo de
 una línea indica los comentarios que se hacen en pro de claridad.
 
+Ejecútelos en este orden:
+```
+> spend
+> lpend
+```
+
 
 ## Para ir más allá
 Una versión más elaborada de este ejemplo, incluyendo una animación usando [ImageMagick](http://www.imagemagick.org/script/convert.php)
