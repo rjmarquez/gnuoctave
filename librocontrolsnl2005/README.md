@@ -4,8 +4,8 @@
 
 * ISBN 84-205-4449-3, 9788420544496. 
 * Encuadernación: Tapa blanda
-* Número de páginas: 360
-* Editoral: PEARSON EDUCACION
+* 336 páginas 
+* Editoral: PEARSON EDUCACION (Prentice Hall)
 * Lengua: CASTELLANO
 
 Estos archivos de código en [GNU Octave](https://www.gnu.org/software/octave/)/MATLAB sirven de apoyo y son parte integral de la versión impresa del libro 
@@ -25,6 +25,8 @@ Estos ejemplos cubren los siguientes temas:
 Las referencias a estos temas se encuentran en el texto indicado. Estos archivos complementan el material presentado [allí](https://controldesistemasnolineales.com).
 
 Para mayor información visite la página [https://controldesistemasnolineales.com](https://controldesistemasnolineales.com).
+
+Un borrador incompleto de este texto se encuentra [aquí](https://www.researchgate.net/profile/Hebertt_Sira-Ramirez/publication/327929276_Control_de_Sistemas_No_Lineales_Linealizacion_aproximada_extendida_exacta/links/5c009b67a6fdcc1b8d4a9371/Control-de-Sistemas-No-Lineales-Linealizacion-aproximada-extendida-exacta.pdf).
 
 > *El libro que tiene lector en sus manos constituye una introducción
 al control no lineal tratando de explotar las posibilidades de la
