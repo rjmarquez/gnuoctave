@@ -1,6 +1,6 @@
 # Control por realimentación del vector de estados
 
-Esta estrategia está basada en linealización aproximada.
+Esta estrategia está basada en la linealización aproximada del sistema no lineal.
 
 ## Artefacto espacial (tobera)
 
